@@ -13,8 +13,25 @@
 		EF0FF80D2780E5250079B826 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF80C2780E5250079B826 /* GameScene.swift */; };
 		EF0FF80F2780E5250079B826 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF80E2780E5250079B826 /* GameViewController.swift */; };
 		EF0FF8122780E5250079B826 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8102780E5250079B826 /* Main.storyboard */; };
-		EF0FF8142780E5260079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8132780E5260079B826 /* Assets.xcassets */; };
 		EF0FF8172780E5260079B826 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8152780E5260079B826 /* LaunchScreen.storyboard */; };
+		EF0FF81E2780E5850079B826 /* ArenaBoundary.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF81D2780E5850079B826 /* ArenaBoundary.swift */; };
+		EF0FF8202780E5CB0079B826 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF81F2780E5CB0079B826 /* Music.swift */; };
+		EF0FF8222780E5D40079B826 /* Bullet.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8212780E5D40079B826 /* Bullet.swift */; };
+		EF0FF8242780E5D90079B826 /* GameSprite.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8232780E5D90079B826 /* GameSprite.swift */; };
+		EF0FF8262780E5DD0079B826 /* HUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8252780E5DD0079B826 /* HUD.swift */; };
+		EF0FF8282780E5E10079B826 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8272780E5E10079B826 /* MenuScene.swift */; };
+		EF0FF82A2780E5E50079B826 /* OptionsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8292780E5E50079B826 /* OptionsScene.swift */; };
+		EF0FF82C2780E5E90079B826 /* HowToPlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF82B2780E5E90079B826 /* HowToPlay.swift */; };
+		EF0FF82E2780E5ED0079B826 /* Player1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF82D2780E5ED0079B826 /* Player1.swift */; };
+		EF0FF8302780E5F00079B826 /* Player2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF82F2780E5F00079B826 /* Player2.swift */; };
+		EF0FF8322780E5F40079B826 /* ParticlePool.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0FF8312780E5F40079B826 /* ParticlePool.swift */; };
+		EF0FF8342780E5F70079B826 /* BulletExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8332780E5F70079B826 /* BulletExplosion.sks */; };
+		EF0FF8362780E5FB0079B826 /* PlayerExplosion1.sks in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8352780E5FB0079B826 /* PlayerExplosion1.sks */; };
+		EF0FF8382780E5FF0079B826 /* PlayerExplosion2.sks in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8372780E5FF0079B826 /* PlayerExplosion2.sks */; };
+		EF0FF83A2780E6030079B826 /* StartMenuParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8392780E6030079B826 /* StartMenuParticle.sks */; };
+		EF0FF83C2780E60C0079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF83B2780E60C0079B826 /* Assets.xcassets */; };
+		EF0FF83E2780E60F0079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF83D2780E60F0079B826 /* Assets.xcassets */; };
+		EF0FF8402780E6130079B826 /* Sound.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF83F2780E6130079B826 /* Sound.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,8 +42,25 @@
 		EF0FF80C2780E5250079B826 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		EF0FF80E2780E5250079B826 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		EF0FF8112780E5250079B826 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EF0FF8132780E5260079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF0FF8162780E5260079B826 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EF0FF81D2780E5850079B826 /* ArenaBoundary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArenaBoundary.swift; sourceTree = "<group>"; };
+		EF0FF81F2780E5CB0079B826 /* Music.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		EF0FF8212780E5D40079B826 /* Bullet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bullet.swift; sourceTree = "<group>"; };
+		EF0FF8232780E5D90079B826 /* GameSprite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameSprite.swift; sourceTree = "<group>"; };
+		EF0FF8252780E5DD0079B826 /* HUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUD.swift; sourceTree = "<group>"; };
+		EF0FF8272780E5E10079B826 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		EF0FF8292780E5E50079B826 /* OptionsScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsScene.swift; sourceTree = "<group>"; };
+		EF0FF82B2780E5E90079B826 /* HowToPlay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HowToPlay.swift; sourceTree = "<group>"; };
+		EF0FF82D2780E5ED0079B826 /* Player1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player1.swift; sourceTree = "<group>"; };
+		EF0FF82F2780E5F00079B826 /* Player2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player2.swift; sourceTree = "<group>"; };
+		EF0FF8312780E5F40079B826 /* ParticlePool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParticlePool.swift; sourceTree = "<group>"; };
+		EF0FF8332780E5F70079B826 /* BulletExplosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BulletExplosion.sks; sourceTree = "<group>"; };
+		EF0FF8352780E5FB0079B826 /* PlayerExplosion1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = PlayerExplosion1.sks; sourceTree = "<group>"; };
+		EF0FF8372780E5FF0079B826 /* PlayerExplosion2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = PlayerExplosion2.sks; sourceTree = "<group>"; };
+		EF0FF8392780E6030079B826 /* StartMenuParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = StartMenuParticle.sks; sourceTree = "<group>"; };
+		EF0FF83B2780E60C0079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../MainGame/MainGame/Assets.xcassets; sourceTree = "<group>"; };
+		EF0FF83D2780E60F0079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../MainGame/Assets.xcassets; sourceTree = "<group>"; };
+		EF0FF83F2780E6130079B826 /* Sound.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Sound.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,10 +97,27 @@
 				EF0FF8082780E5250079B826 /* GameScene.sks */,
 				EF0FF80A2780E5250079B826 /* Actions.sks */,
 				EF0FF80C2780E5250079B826 /* GameScene.swift */,
+				EF0FF81D2780E5850079B826 /* ArenaBoundary.swift */,
+				EF0FF81F2780E5CB0079B826 /* Music.swift */,
+				EF0FF8212780E5D40079B826 /* Bullet.swift */,
+				EF0FF8232780E5D90079B826 /* GameSprite.swift */,
 				EF0FF80E2780E5250079B826 /* GameViewController.swift */,
+				EF0FF8252780E5DD0079B826 /* HUD.swift */,
+				EF0FF8272780E5E10079B826 /* MenuScene.swift */,
+				EF0FF8292780E5E50079B826 /* OptionsScene.swift */,
+				EF0FF82B2780E5E90079B826 /* HowToPlay.swift */,
+				EF0FF82D2780E5ED0079B826 /* Player1.swift */,
+				EF0FF82F2780E5F00079B826 /* Player2.swift */,
+				EF0FF8312780E5F40079B826 /* ParticlePool.swift */,
+				EF0FF8332780E5F70079B826 /* BulletExplosion.sks */,
+				EF0FF8352780E5FB0079B826 /* PlayerExplosion1.sks */,
+				EF0FF8372780E5FF0079B826 /* PlayerExplosion2.sks */,
+				EF0FF8392780E6030079B826 /* StartMenuParticle.sks */,
 				EF0FF8102780E5250079B826 /* Main.storyboard */,
-				EF0FF8132780E5260079B826 /* Assets.xcassets */,
+				EF0FF83F2780E6130079B826 /* Sound.xcassets */,
 				EF0FF8152780E5260079B826 /* LaunchScreen.storyboard */,
+				EF0FF83D2780E60F0079B826 /* Assets.xcassets */,
+				EF0FF83B2780E60C0079B826 /* Assets.xcassets */,
 			);
 			path = GalaxFight;
 			sourceTree = "<group>";
@@ -131,8 +182,14 @@
 			files = (
 				EF0FF8122780E5250079B826 /* Main.storyboard in Resources */,
 				EF0FF8092780E5250079B826 /* GameScene.sks in Resources */,
-				EF0FF8142780E5260079B826 /* Assets.xcassets in Resources */,
+				EF0FF83E2780E60F0079B826 /* Assets.xcassets in Resources */,
+				EF0FF8382780E5FF0079B826 /* PlayerExplosion2.sks in Resources */,
+				EF0FF83C2780E60C0079B826 /* Assets.xcassets in Resources */,
+				EF0FF8362780E5FB0079B826 /* PlayerExplosion1.sks in Resources */,
+				EF0FF8402780E6130079B826 /* Sound.xcassets in Resources */,
+				EF0FF8342780E5F70079B826 /* BulletExplosion.sks in Resources */,
 				EF0FF8172780E5260079B826 /* LaunchScreen.storyboard in Resources */,
+				EF0FF83A2780E6030079B826 /* StartMenuParticle.sks in Resources */,
 				EF0FF80B2780E5250079B826 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -145,8 +202,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF0FF80D2780E5250079B826 /* GameScene.swift in Sources */,
+				EF0FF81E2780E5850079B826 /* ArenaBoundary.swift in Sources */,
+				EF0FF8302780E5F00079B826 /* Player2.swift in Sources */,
+				EF0FF8202780E5CB0079B826 /* Music.swift in Sources */,
+				EF0FF82A2780E5E50079B826 /* OptionsScene.swift in Sources */,
+				EF0FF8282780E5E10079B826 /* MenuScene.swift in Sources */,
+				EF0FF8242780E5D90079B826 /* GameSprite.swift in Sources */,
+				EF0FF82E2780E5ED0079B826 /* Player1.swift in Sources */,
 				EF0FF80F2780E5250079B826 /* GameViewController.swift in Sources */,
+				EF0FF8262780E5DD0079B826 /* HUD.swift in Sources */,
 				EF0FF8072780E5250079B826 /* AppDelegate.swift in Sources */,
+				EF0FF8322780E5F40079B826 /* ParticlePool.swift in Sources */,
+				EF0FF82C2780E5E90079B826 /* HowToPlay.swift in Sources */,
+				EF0FF8222780E5D40079B826 /* Bullet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
