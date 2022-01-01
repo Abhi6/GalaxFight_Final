@@ -1,6 +1,6 @@
 # GalaxFight_Final
 
-The Game is named GalaxFight
+The Game is named GalaxFight (it is two player)
 
 The goal of the game is to destroy the opponent. You will constantly be shooting bullets. The amount of damage the bullet done is randomized, from 1 to 10 health you both start off with 50 health. 
 
