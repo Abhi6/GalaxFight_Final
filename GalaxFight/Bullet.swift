@@ -43,7 +43,7 @@ class Bullet: SKSpriteNode, GameSprite {
         
         scene.addChild(bulletNode)
         
-        bulletNode.physicsBody?.applyImpulse(CGVector(dx: cos(player.zRotation), dy: sin(player.zRotation)))
+        bulletNode.physicsBody?.applyImpulse(CGVector(dx: cos(player.zRotation)*1.5, dy: sin(player.zRotation)*1.5))
         
     }
     
@@ -67,7 +67,7 @@ class Bullet: SKSpriteNode, GameSprite {
         
         scene.addChild(bulletNode)
         
-        bulletNode.physicsBody?.applyImpulse(CGVector(dx: -cos(player.zRotation)*1, dy: -sin(player.zRotation)*1))
+        bulletNode.physicsBody?.applyImpulse(CGVector(dx: -cos(player.zRotation)*1.5, dy: -sin(player.zRotation)*1.5))
     }
     
     func explode(gameScene: GameScene) {

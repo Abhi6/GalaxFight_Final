@@ -31,7 +31,7 @@
 		EF0FF83A2780E6030079B826 /* StartMenuParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8392780E6030079B826 /* StartMenuParticle.sks */; };
 		EF0FF8402780E6130079B826 /* Sound.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF83F2780E6130079B826 /* Sound.xcassets */; };
 		EF0FF8432780EF6B0079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8412780EF6B0079B826 /* Assets.xcassets */; };
-		EF0FF8442780EF6B0079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF8422780EF6B0079B826 /* Assets.xcassets */; };
+		EF0FF84827812B620079B826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0FF84727812B620079B826 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,7 +60,7 @@
 		EF0FF8392780E6030079B826 /* StartMenuParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = StartMenuParticle.sks; sourceTree = "<group>"; };
 		EF0FF83F2780E6130079B826 /* Sound.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Sound.xcassets; sourceTree = "<group>"; };
 		EF0FF8412780EF6B0079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EF0FF8422780EF6B0079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../MainGame 2.47.24 PM/Assets.xcassets"; sourceTree = "<group>"; };
+		EF0FF84727812B620079B826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../.Trash/MainGame 2.47.24 PM/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +116,7 @@
 				EF0FF8102780E5250079B826 /* Main.storyboard */,
 				EF0FF83F2780E6130079B826 /* Sound.xcassets */,
 				EF0FF8152780E5260079B826 /* LaunchScreen.storyboard */,
-				EF0FF8422780EF6B0079B826 /* Assets.xcassets */,
+				EF0FF84727812B620079B826 /* Assets.xcassets */,
 				EF0FF8412780EF6B0079B826 /* Assets.xcassets */,
 			);
 			path = GalaxFight;
@@ -182,9 +182,9 @@
 			files = (
 				EF0FF8122780E5250079B826 /* Main.storyboard in Resources */,
 				EF0FF8092780E5250079B826 /* GameScene.sks in Resources */,
+				EF0FF84827812B620079B826 /* Assets.xcassets in Resources */,
 				EF0FF8382780E5FF0079B826 /* PlayerExplosion2.sks in Resources */,
 				EF0FF8362780E5FB0079B826 /* PlayerExplosion1.sks in Resources */,
-				EF0FF8442780EF6B0079B826 /* Assets.xcassets in Resources */,
 				EF0FF8402780E6130079B826 /* Sound.xcassets in Resources */,
 				EF0FF8342780E5F70079B826 /* BulletExplosion.sks in Resources */,
 				EF0FF8172780E5260079B826 /* LaunchScreen.storyboard in Resources */,
