@@ -9,3 +9,5 @@ The right most region is the rotate counterclockwise while the middle region is 
 
 There is a How To Play section in the game.
 You can also decide if you want to keep the music and sound effects on or turn them off in the Settings.
+
+The background music is credited to DL Sounds Original Audio (Royalty Free) and the bullet and player explosion sound effects are credited to MixKit. 
