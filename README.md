@@ -13,3 +13,7 @@ You can also decide if you want to keep the music and sound effects on or turn t
 The background music is credited to DL Sounds Original Audio (Royalty Free) and the bullet and player explosion sound effects are credited to MixKit. 
 
 ![alt text](https://user-images.githubusercontent.com/31413154/149704376-bf938ae1-f379-48fc-93b1-0990f2de59d9.png)
+![alt text](https://user-images.githubusercontent.com/31413154/149704524-0c2a41fc-8949-4d44-b979-7cc2fd3749d3.png)
+![alt text](https://user-images.githubusercontent.com/31413154/149704554-554e8dc1-ad44-4499-8b3e-c0c7c73705ee.png)
+
+
